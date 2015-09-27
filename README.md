@@ -12,6 +12,10 @@ Supported solvers:
 Support for other solvers should be fairly easy as long as they accept the
 [DIMACS CNF SAT format](http://www.satcompetition.org/2009/format-benchmarks2009.html).
 
+Looking for similar libraries in other languages?
+
+* C#/.NET: [Quarto](https://github.com/felienne/quarto)
+
 Installing
 ----------
 
